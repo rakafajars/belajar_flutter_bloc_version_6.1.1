@@ -1,16 +1,7 @@
 # flutter_bloc_version_611
 
-A new Flutter project.
+Belajar BLOC V 6.1.1 (read, watch, select)
 
-## Getting Started
+belajar ini dari youtube https://www.youtube.com/watch?v=zQ3FjZws42E
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/73903697/106070211-9a501580-6136-11eb-8c0e-20140b1884d7.png)
